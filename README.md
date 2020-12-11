@@ -36,17 +36,16 @@
 
 ## 🧐 About <a name = "about"></a>
 
-* A Rails/Ruby App which enables you to manage snippets (for your text expander program Espanso in the cloud) with a React Front-End. 
-* Snippets are key value pairs, where upon typing the key is replaced with the value.
-    * For Example, I type THE snippet :yolo and my text expander program automatically fills the phrase “you only live once”.
+- A Rails/Ruby App which enables you to manage snippets (for your text expander program Espanso in the cloud) with a React Front-End.
+- Snippets are key value pairs, where upon typing the key is replaced with the value.
+  - For Example, I type THE snippet :yolo and my text expander program automatically fills the phrase “you only live once”.
 
-
+---
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system. Or you can check out the live deployment <a href="https://semplificato.link">here</a>
 
-------------------------------------------------------
 ### Prerequisites
 
 What things you need to install the software and how to install them.
@@ -99,8 +98,7 @@ Add notes about how to use the system.
 
 ## 🏁 Data Structure <a name = "data_structure"></a>
 
- <img width=400px  src="https://imgur.com/u3U5v0O.png" alt="Database Schema"></a>
-
+<img width=400px  src="https://imgur.com/u3U5v0O.png" alt="Database Schema"></a>
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
@@ -114,7 +112,7 @@ For the deployment at https://semplificato.link
 - [Rails](https://rubyonrails.org/) - Backend Framework
 - [React](https://reactjs.org/) - Front End Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
-- [React Rails](https://github.com/reactjs/react-rails) → Rails + React 
+- [React Rails](https://github.com/reactjs/react-rails) → Rails + React
 - [README Pattern](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern) - README templates
 
 ## ✍️ Authors <a name = "authors"></a>
