@@ -27,6 +27,7 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Data Structure](#data_structure)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
@@ -95,6 +96,11 @@ Give an example
 ## 🎈 Usage <a name="usage"></a>
 
 Add notes about how to use the system.
+
+## 🏁 Data Structure <a name = "data_structure"></a>
+
+ <img width=400px  src="https://imgur.com/u3U5v0O.png" alt="Database Schema"></a>
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
