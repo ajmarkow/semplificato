@@ -114,6 +114,7 @@ For the deployment at https://semplificato.link
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [React Rails](https://github.com/reactjs/react-rails) → Rails + React
 - [README Pattern](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern) - README templates
+- [Active Export](https://github.com/kengos/active_export) → YAML File Exports for Rails Apps.
 
 ## ✍️ Authors <a name = "authors"></a>
 
