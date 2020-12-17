@@ -98,7 +98,7 @@ Add notes about how to use the system.
 
 ## 🏁 Data Structure <a name = "data_structure"></a>
 
-[Imgur](https://imgur.com/RprZjk1.png)
+<img src='https://imgur.com/a/zRIo21B.png' width='500'></img>
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
